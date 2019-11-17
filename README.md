@@ -1,1 +1,3 @@
-# scikit-learn_MLPClassifier_with_dropout_py37
+# scikit-learn MLPClassifier() with dropout
+# forked from https://github.com/glennq/scikit-learn/tree/mlp_dropout_new  and modified for python 3.7 
+# 
